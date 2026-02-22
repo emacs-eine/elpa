@@ -6,7 +6,7 @@
 (require 'url-handlers)
 
 (defconst svg-url-format
-  "https://img.shields.io/badge/jcs%%20elpa-%s-6B8E23.svg"
+  "https://img.shields.io/badge/EINE%%20Elpa-%s-8D1DFC.svg"
   "Format to generate badges.")
 
 (defconst output-dir "./badges/v/"
