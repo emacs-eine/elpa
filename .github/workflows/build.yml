@@ -1,0 +1,68 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron:  '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # packages to build per section
+  PER_SECTION: 50
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # PER_SECTION * JOBS's must exceed the total recipes, or else it won't
+        # built the later packages!
+        section: [1, 2, 3, 4, 5, 6]
+    steps:
+    - uses: jcs090218/setup-emacs@master
+      with:
+        version: 30.2
+
+    - uses: emacs-eask/setup-eask@master
+      with:
+        version: 'snapshot'
+
+    - uses: actions/checkout@v6
+
+    - name: Expose section info
+      run: |
+        echo "ELPA_SECTION=${{ matrix.section }}" >> $GITHUB_ENV
+        echo "PER_SECTION=${{ env.PER_SECTION }}" >> $GITHUB_ENV
+
+    - name: Build packages
+      continue-on-error: true
+      run: make build_packages
+
+    - name: Set git config
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+
+    - name: Commit updated packages
+      continue-on-error: true
+      run: |
+        git pull --rebase --autostash
+        git add .
+        git commit -m "Update packages in section ${{ matrix.section }}"
+
+    - name: Push updated packages
+      continue-on-error: true
+      uses: jcs-actions/github-push-action@master
+      with:
+        branch: main
+        rebase: true
+        retry: ${{ strategy.job-total }}

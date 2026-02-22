@@ -1,0 +1,18 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+.eask
+
+# github-elpa
+.github-elpa-working/
+
+# Cask repository
+cask-repository/
+
+# log
+.log
+
+# OS generated
+.DS_Store

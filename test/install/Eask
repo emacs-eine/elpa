@@ -1,0 +1,15 @@
+(package "emacs-eine/test"
+         "0.0.0"
+         "Test to install emacs-eine packages")
+
+(website-url "https://github.com/emacs-eine/elpa/test")
+(keywords "elpa" "test")
+
+(source 'gnu)
+(source 'melpa)
+(source 'jcs-elpa)
+(source 'eine)
+
+;; List of packages from eine
+(depends-on "google-translate-cli")
+(depends-on "simple-httpd-cli")

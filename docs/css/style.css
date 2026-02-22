@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/**
+ * $File: style.css $
+ * $Date: 2022-01-23 04:27:27 $
+ * $Revision: $
+ * $Creator: Jen-Chieh Shen $
+ * $Notice: See LICENSE.txt for modification and distribution information
+ *                   Copyright © 2022 by Shen, Jen-Chieh $
+ */
+
+body {
+  background-color: #FFFFFF;
+  background-image:  url('../etc/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#package-table {
+  /* color: #D2D2D2; */
+}
+
+h5 {
+  color: #6B8E23;
+}
+
+a {
+  text-decoration: none;
+}
+
+#table-div {
+  border-style: none !important;
+}
+
+/* Hide search box */
+#package-table_wrapper > .row:first-of-type  {
+  display: none;
+}
+
+#package-table_wrapper > .row:last-of-type  {
+  margin-top: 20px;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  border: 2px solid rgb(255, 255, 255);
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D6D6D6;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8C8C8C;
+}
