@@ -5,7 +5,7 @@
 
 <img align="right" width="20%" src="./docs/etc/logo.png">
 
-# EINE Elpa
+# EINE ELPA
 > ELPA for [EINE][], using [github-elpa](https://github.com/10sr/github-elpa)
 
 Here are the goals for this [ELPA][]:
