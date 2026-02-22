@@ -1,0 +1,38 @@
+[
+  {
+    "name": "cat",
+    "summary": "View files with syntax highlighting",
+    "version": "20260222.907",
+    "url": "https://github.com/emacs-eine/cat",
+    "source": "github",
+    "commit": "07811b290d0f44a7b95cafe9b56a4340b4912b82",
+    "tree": "https://github.com/emacs-eine/cat"
+  },
+  {
+    "name": "google-translate-cli",
+    "summary": "A command-line interface for Google Translate",
+    "version": "20260219.1945",
+    "url": "https://github.com/emacs-eine/google-translate-cli",
+    "source": "github",
+    "commit": "f5f5eebefcf309c26445e67c4e268bfb193d308b",
+    "tree": "https://github.com/emacs-eine/google-translate-cli"
+  },
+  {
+    "name": "gt-cli",
+    "summary": "A command-line interface for gt",
+    "version": "20260219.1945",
+    "url": "https://github.com/emacs-eine/gt-cli",
+    "source": "github",
+    "commit": "5b6fa042b3f945b904fc18d5645675958e13b945",
+    "tree": "https://github.com/emacs-eine/gt-cli"
+  },
+  {
+    "name": "simple-httpd-cli",
+    "summary": "A command-line interface for simple-httpd",
+    "version": "20260221.1304",
+    "url": "https://github.com/emacs-eine/simple-httpd-cli",
+    "source": "github",
+    "commit": "fe270f0ebcd4e78460104e8d42eb514f4bc468f4",
+    "tree": "https://github.com/emacs-eine/simple-httpd-cli"
+  }
+]
