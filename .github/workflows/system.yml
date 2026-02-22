@@ -32,7 +32,7 @@ jobs:
       run: make generate_badges_system
 
     - name: Move badges to home
-      run: mv -p ./badges/ ~/
+      run: mv ./badges/ ~/
 
     - name: Checkout badges repository
       uses: actions/checkout@v6
@@ -45,7 +45,7 @@ jobs:
       run: |
         rm -rf ./elpa/emacs.svg
         rm -rf ./elpa/system.svg
-        mv -pf ~/badges/* ./elpa/
+        mv -f ~/badges/* ./elpa/
 
     - name: Set git config
       run: |
