@@ -8,14 +8,9 @@
 # EINE Elpa
 > ELPA for [EINE][], using [github-elpa](https://github.com/10sr/github-elpa)
 
-## 🏆 Goals
+Here are the goals for this [ELPA][]:
 
-- Prioritize using built-in code over third-party libraries (e.g., `dash.el`, `s.el`, `f.el`).
-- Reuse third-party libraries when possible to reduce maintenance (consider ELPA as a single large project), but it's not strictly necessary.
-- Accept package contributions, but they must demonstrate clear usefulness.
-- Avoid reinventing the wheel—search for existing packages before developing a new one.
-- Contribute to existing packages with similar functionality, unless the author declines contributions.
-- Maintain your packages as much as you can, and ask for help if needed.
+- Host all EINE packages for public use.
 
 ## 🔨 How to use?
 
@@ -61,6 +56,8 @@ This work is licensed under the [CC BY-ND 4.0](https://creativecommons.org/licen
 
 
 <!-- Links -->
+
+[ELPA]: https://wikemacs.org/wiki/ELPA
 
 [EINE]: https://github.com/emacs-eine
 [github-elpa]: https://github.com/10sr/github-elpa
