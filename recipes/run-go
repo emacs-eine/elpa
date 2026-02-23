@@ -1,0 +1,4 @@
+(run-go
+ :fetcher github
+ :repo "emacs-eine/run-go"
+ :files (:defaults "bin"))
