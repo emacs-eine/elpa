@@ -1,0 +1,4 @@
+(org-linter
+ :fetcher github
+ :repo "emacs-eine/org-linter"
+ :files (:defaults "bin"))
