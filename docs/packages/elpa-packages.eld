@@ -2,5 +2,6 @@
   (google-translate-cli :url "https://github.com/emacs-eine/google-translate-cli")
   (gt-cli :url "https://github.com/emacs-eine/gt-cli")
   (org-linter :url "https://github.com/emacs-eine/org-linter")
+  (run-tetris :url "https://github.com/emacs-eine/run-tetris")
   (simple-httpd-cli :url "https://github.com/emacs-eine/simple-httpd-cli"))
  :version 1 :default-vc Git)

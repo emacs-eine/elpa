@@ -1,0 +1,8 @@
+(run-tetris
+ . [(20260223 1841) ((emacs (26 1))) "Play tetris" tar
+    ((:url . "https://github.com/emacs-eine/run-tetris")
+     (:commit . "ee4d4df509c71ca6c921f569e7376c7bd016d9e2")
+     (:revdesc . "ee4d4df509c7") (:keywords "games")
+     (:authors ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainers ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainer "Jen-Chieh" . "jcs090218@gmail.com"))])
