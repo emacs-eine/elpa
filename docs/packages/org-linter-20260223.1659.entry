@@ -1,0 +1,10 @@
+(org-linter
+ . [(20260223 1659)
+    ((emacs (26 1)) (commander (0 7 0)) (ansi (0 4 1)))
+    "Run org-lint on Org files" tar
+    ((:url . "https://github.com/emacs-eine/org-linter")
+     (:commit . "b12bc7291a28fc60c7b6afe37d1e59cfcba01690")
+     (:revdesc . "b12bc7291a28") (:keywords "convenience")
+     (:authors ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainers ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainer "Jen-Chieh" . "jcs090218@gmail.com"))])
