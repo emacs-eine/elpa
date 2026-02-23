@@ -27,6 +27,15 @@
     "tree": "https://github.com/emacs-eine/gt-cli"
   },
   {
+    "name": "org-linter",
+    "summary": "Run org-lint on Org files",
+    "version": "20260223.1659",
+    "url": "https://github.com/emacs-eine/org-linter",
+    "source": "github",
+    "commit": "b12bc7291a28fc60c7b6afe37d1e59cfcba01690",
+    "tree": "https://github.com/emacs-eine/org-linter"
+  },
+  {
     "name": "simple-httpd-cli",
     "summary": "A command-line interface for simple-httpd",
     "version": "20260221.1304",
