@@ -36,6 +36,15 @@
     "tree": "https://github.com/emacs-eine/org-linter"
   },
   {
+    "name": "run-tetris",
+    "summary": "Play tetris",
+    "version": "20260223.1841",
+    "url": "https://github.com/emacs-eine/run-tetris",
+    "source": "github",
+    "commit": "ee4d4df509c71ca6c921f569e7376c7bd016d9e2",
+    "tree": "https://github.com/emacs-eine/run-tetris"
+  },
+  {
     "name": "simple-httpd-cli",
     "summary": "A command-line interface for simple-httpd",
     "version": "20260221.1304",
