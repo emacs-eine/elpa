@@ -1,0 +1,4 @@
+(run-tetris
+ :fetcher github
+ :repo "emacs-eine/run-tetris"
+ :files (:defaults "bin"))
