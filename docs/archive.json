@@ -36,6 +36,15 @@
     "tree": "https://github.com/emacs-eine/org-linter"
   },
   {
+    "name": "run-go",
+    "summary": "Play Go",
+    "version": "20260223.1911",
+    "url": "https://github.com/emacs-eine/run-go",
+    "source": "github",
+    "commit": "6bbffb853382a383b93a7a1d51a0ef1a773dc91c",
+    "tree": "https://github.com/emacs-eine/run-go"
+  },
+  {
     "name": "run-tetris",
     "summary": "Play tetris",
     "version": "20260223.1841",
