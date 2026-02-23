@@ -3,6 +3,7 @@
   (gt-cli :url "https://github.com/emacs-eine/gt-cli")
   (org-linter :url "https://github.com/emacs-eine/org-linter")
   (run-go :url "https://github.com/emacs-eine/run-go")
+  (run-slime-volleyball :url "https://github.com/emacs-eine/run-slime-volleyball")
   (run-tetris :url "https://github.com/emacs-eine/run-tetris")
   (simple-httpd-cli :url "https://github.com/emacs-eine/simple-httpd-cli"))
  :version 1 :default-vc Git)
