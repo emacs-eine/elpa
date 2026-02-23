@@ -1,2 +1,2 @@
 
-Play tetris.
+Play Tetris.
