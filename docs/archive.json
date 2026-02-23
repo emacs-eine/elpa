@@ -38,28 +38,28 @@
   {
     "name": "run-go",
     "summary": "Play Go",
-    "version": "20260223.1911",
+    "version": "20260223.2136",
     "url": "https://github.com/emacs-eine/run-go",
     "source": "github",
-    "commit": "6bbffb853382a383b93a7a1d51a0ef1a773dc91c",
+    "commit": "4814719c4d52a1214b308e0cd63c5166b2b0ab30",
     "tree": "https://github.com/emacs-eine/run-go"
   },
   {
     "name": "run-slime-volleyball",
     "summary": "Run slime-volleyball",
-    "version": "20260223.1922",
+    "version": "20260223.2136",
     "url": "https://github.com/emacs-eine/run-slime-volleyball",
     "source": "github",
-    "commit": "32aae2f60f886579a9255b87a00b0e2a7b306aa1",
+    "commit": "945a12fe28e858b9dce70e937d28dd48314c6122",
     "tree": "https://github.com/emacs-eine/run-slime-volleyball"
   },
   {
     "name": "run-tetris",
     "summary": "Play Tetris",
-    "version": "20260223.1934",
+    "version": "20260223.2136",
     "url": "https://github.com/emacs-eine/run-tetris",
     "source": "github",
-    "commit": "008138eea65ac8d39087ba76cb9d807a0e5f962c",
+    "commit": "4742a65426c28afbdd07dad812cc50a7ff69b372",
     "tree": "https://github.com/emacs-eine/run-tetris"
   },
   {
