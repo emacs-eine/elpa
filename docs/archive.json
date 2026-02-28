@@ -11,19 +11,19 @@
   {
     "name": "google-translate-cli",
     "summary": "A command-line interface for Google Translate",
-    "version": "20260228.1714",
+    "version": "20260228.1716",
     "url": "https://github.com/emacs-eine/google-translate-cli",
     "source": "github",
-    "commit": "9bbccf8b7def7bc6fd9f8ca558bb4d719aa909c6",
+    "commit": "0e68b86108d43c93d3e3bbb1399e6e9016950848",
     "tree": "https://github.com/emacs-eine/google-translate-cli"
   },
   {
     "name": "gt-cli",
     "summary": "A command-line interface for gt",
-    "version": "20260219.1945",
+    "version": "20260228.1716",
     "url": "https://github.com/emacs-eine/gt-cli",
     "source": "github",
-    "commit": "5b6fa042b3f945b904fc18d5645675958e13b945",
+    "commit": "bd6eb49c704bf3dce818aeaaaecae39485ffb2c3",
     "tree": "https://github.com/emacs-eine/gt-cli"
   },
   {
