@@ -36,6 +36,15 @@
     "tree": "https://github.com/emacs-eine/simple-httpd-cli"
   },
   {
+    "name": "x-go",
+    "summary": "Play Go",
+    "version": "20260301.1038",
+    "url": "https://github.com/emacs-eine/x-go",
+    "source": "github",
+    "commit": "d9c1f1bd2d493c6960c03074e42efe155b3eca8f",
+    "tree": "https://github.com/emacs-eine/x-go"
+  },
+  {
     "name": "x-org-lint",
     "summary": "Run org-lint on Org files",
     "version": "20260301.1023",
