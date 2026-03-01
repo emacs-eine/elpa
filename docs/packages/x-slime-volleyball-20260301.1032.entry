@@ -1,0 +1,9 @@
+(x-slime-volleyball
+ . [(20260301 1032) ((emacs (26 1)) (slime-volleyball (1 1)))
+    "Run slime-volleyball" tar
+    ((:url . "https://github.com/emacs-eine/x-slime-volleyball")
+     (:commit . "8ab8662055acb316e1b0778f61a6fe0cb79de5e7")
+     (:revdesc . "8ab8662055ac") (:keywords "games")
+     (:authors ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainers ("Jen-Chieh" . "jcs090218@gmail.com"))
+     (:maintainer "Jen-Chieh" . "jcs090218@gmail.com"))])

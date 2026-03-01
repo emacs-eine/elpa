@@ -1,8 +1,0 @@
-(run-go
- . [(20260223 2136) ((emacs (26 1)) (go (0 0 1))) "Play Go" tar
-    ((:url . "https://github.com/emacs-eine/run-go")
-     (:commit . "4814719c4d52a1214b308e0cd63c5166b2b0ab30")
-     (:revdesc . "4814719c4d52") (:keywords "games")
-     (:authors ("Jen-Chieh" . "jcs090218@gmail.com"))
-     (:maintainers ("Jen-Chieh" . "jcs090218@gmail.com"))
-     (:maintainer "Jen-Chieh" . "jcs090218@gmail.com"))])
