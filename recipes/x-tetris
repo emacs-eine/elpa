@@ -1,4 +1,4 @@
-(run-go
+(x-tetris
  :fetcher github
- :repo "emacs-eine/run-go"
+ :repo "emacs-eine/x-tetris"
  :files (:defaults "bin"))

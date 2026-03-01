@@ -1,0 +1,4 @@
+(x-slime-volleyball
+ :fetcher github
+ :repo "emacs-eine/x-slime-volleyball"
+ :files (:defaults "bin"))
