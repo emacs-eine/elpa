@@ -1,4 +1,4 @@
-(org-linter
+(x-org-lint
  :fetcher github
- :repo "emacs-eine/org-linter"
+ :repo "emacs-eine/x-org-lint"
  :files (:defaults "bin"))
