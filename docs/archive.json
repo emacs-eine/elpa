@@ -27,15 +27,6 @@
     "tree": "https://github.com/emacs-eine/gt-cli"
   },
   {
-    "name": "org-linter",
-    "summary": "Run org-lint on Org files",
-    "version": "20260223.1659",
-    "url": "https://github.com/emacs-eine/org-linter",
-    "source": "github",
-    "commit": "b12bc7291a28fc60c7b6afe37d1e59cfcba01690",
-    "tree": "https://github.com/emacs-eine/org-linter"
-  },
-  {
     "name": "run-go",
     "summary": "Play Go",
     "version": "20260223.2136",
@@ -70,5 +61,14 @@
     "source": "github",
     "commit": "fe270f0ebcd4e78460104e8d42eb514f4bc468f4",
     "tree": "https://github.com/emacs-eine/simple-httpd-cli"
+  },
+  {
+    "name": "x-org-lint",
+    "summary": "Run org-lint on Org files",
+    "version": "20260301.1023",
+    "url": "https://github.com/emacs-eine/x-org-lint",
+    "source": "github",
+    "commit": "c6016f4266a66ee4783248836cc80f47e97d4de6",
+    "tree": "https://github.com/emacs-eine/x-org-lint"
   }
 ]
