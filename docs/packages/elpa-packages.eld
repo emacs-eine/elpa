@@ -2,6 +2,7 @@
   (google-translate-cli :url "https://github.com/emacs-eine/google-translate-cli")
   (gt-cli :url "https://github.com/emacs-eine/gt-cli")
   (simple-httpd-cli :url "https://github.com/emacs-eine/simple-httpd-cli")
+  (x-go :url "https://github.com/emacs-eine/x-go")
   (x-org-lint :url "https://github.com/emacs-eine/x-org-lint")
   (x-slime-volleyball :url "https://github.com/emacs-eine/x-slime-volleyball")
   (x-tetris :url "https://github.com/emacs-eine/x-tetris"))
