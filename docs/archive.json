@@ -52,5 +52,14 @@
     "source": "github",
     "commit": "8ab8662055acb316e1b0778f61a6fe0cb79de5e7",
     "tree": "https://github.com/emacs-eine/x-slime-volleyball"
+  },
+  {
+    "name": "x-tetris",
+    "summary": "Play Tetris",
+    "version": "20260301.1036",
+    "url": "https://github.com/emacs-eine/x-tetris",
+    "source": "github",
+    "commit": "4ccd72b10392f8916a6f7dd3da3fd2441b98a187",
+    "tree": "https://github.com/emacs-eine/x-tetris"
   }
 ]
