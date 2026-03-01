@@ -27,33 +27,6 @@
     "tree": "https://github.com/emacs-eine/gt-cli"
   },
   {
-    "name": "run-go",
-    "summary": "Play Go",
-    "version": "20260223.2136",
-    "url": "https://github.com/emacs-eine/run-go",
-    "source": "github",
-    "commit": "4814719c4d52a1214b308e0cd63c5166b2b0ab30",
-    "tree": "https://github.com/emacs-eine/run-go"
-  },
-  {
-    "name": "run-slime-volleyball",
-    "summary": "Run slime-volleyball",
-    "version": "20260223.2136",
-    "url": "https://github.com/emacs-eine/run-slime-volleyball",
-    "source": "github",
-    "commit": "945a12fe28e858b9dce70e937d28dd48314c6122",
-    "tree": "https://github.com/emacs-eine/run-slime-volleyball"
-  },
-  {
-    "name": "run-tetris",
-    "summary": "Play Tetris",
-    "version": "20260223.2136",
-    "url": "https://github.com/emacs-eine/run-tetris",
-    "source": "github",
-    "commit": "4742a65426c28afbdd07dad812cc50a7ff69b372",
-    "tree": "https://github.com/emacs-eine/run-tetris"
-  },
-  {
     "name": "simple-httpd-cli",
     "summary": "A command-line interface for simple-httpd",
     "version": "20260221.1304",
@@ -70,5 +43,14 @@
     "source": "github",
     "commit": "c6016f4266a66ee4783248836cc80f47e97d4de6",
     "tree": "https://github.com/emacs-eine/x-org-lint"
+  },
+  {
+    "name": "x-slime-volleyball",
+    "summary": "Run slime-volleyball",
+    "version": "20260301.1032",
+    "url": "https://github.com/emacs-eine/x-slime-volleyball",
+    "source": "github",
+    "commit": "8ab8662055acb316e1b0778f61a6fe0cb79de5e7",
+    "tree": "https://github.com/emacs-eine/x-slime-volleyball"
   }
 ]
