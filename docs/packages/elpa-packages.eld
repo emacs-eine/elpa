@@ -3,5 +3,6 @@
   (gt-cli :url "https://github.com/emacs-eine/gt-cli")
   (simple-httpd-cli :url "https://github.com/emacs-eine/simple-httpd-cli")
   (x-org-lint :url "https://github.com/emacs-eine/x-org-lint")
-  (x-slime-volleyball :url "https://github.com/emacs-eine/x-slime-volleyball"))
+  (x-slime-volleyball :url "https://github.com/emacs-eine/x-slime-volleyball")
+  (x-tetris :url "https://github.com/emacs-eine/x-tetris"))
  :version 1 :default-vc Git)
