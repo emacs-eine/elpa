@@ -47,10 +47,10 @@
   {
     "name": "x-org-lint",
     "summary": "Run org-lint on Org files",
-    "version": "20260301.1023",
+    "version": "20260302.947",
     "url": "https://github.com/emacs-eine/x-org-lint",
     "source": "github",
-    "commit": "c6016f4266a66ee4783248836cc80f47e97d4de6",
+    "commit": "4fc94b2f20defea99236ab51cff693a4fdce73d6",
     "tree": "https://github.com/emacs-eine/x-org-lint"
   },
   {
